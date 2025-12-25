@@ -1,26 +1,26 @@
 # Brazilian_Sales_Analysis
 EDA and business insights from Brazilian e-commerce data
-# 🛍️ E-commerce Sales Analysis
+# E-commerce Sales Analysis
 
-## 📖 Overview
+## Overview
 This project contains a detailed analysis of Brazilian e-commerce data using MySQL and Python in a Jupyter Notebook.  
 We explore order trends, customer behavior, geographic distributions, product preferences, seller performance, and retention rates — then offer data-driven recommendations for improving business outcomes.
 
 ---
 
-## 🎯 Insights & Conclusion
-✅ **Order Trends** — Orders increased sharply from 2017 (90,202) to 2018 (108,022), showing strong growth.  
-✅ **Installment Payments** — Nearly 99.99% of customers preferred installments, reflecting a strong demand for flexible payments.  
-✅ **Customer Geography** — São Paulo (SP) led with the most customers, followed by Minas Gerais (MG) and Rio de Janeiro (RJ).  
-✅ **Seasonality** — Orders peaked in May, July, and August, making these months ideal for promotions.  
-✅ **Product Preferences** — Categories like `Bed Table Bath`, `Health Beauty`, and `Computer Accessories` contributed most to sales.  
-✅ **Price vs. Popularity** — Higher-priced products tend to sell less often (slight negative correlation).  
-✅ **Top Sellers & Customers** — A few sellers and customers contribute most revenue, creating dependency risks.  
-✅ **Retention & Sales Momentum** — Sales showed remarkable growth (12,112% increase in early years), but retention rates remain low, signaling a need for loyalty-building strategies.
+## Insights & Conclusion
+**Order Trends** — Orders increased sharply from 2017 (90,202) to 2018 (108,022), showing strong growth.  
+**Installment Payments** — Nearly 99.99% of customers preferred installments, reflecting a strong demand for flexible payments.  
+**Customer Geography** — São Paulo (SP) led with the most customers, followed by Minas Gerais (MG) and Rio de Janeiro (RJ).  
+**Seasonality** — Orders peaked in May, July, and August, making these months ideal for promotions.  
+**Product Preferences** — Categories like `Bed Table Bath`, `Health Beauty`, and `Computer Accessories` contributed most to sales.  
+**Price vs. Popularity** — Higher-priced products tend to sell less often (slight negative correlation).  
+**Top Sellers & Customers** — A few sellers and customers contribute most revenue, creating dependency risks.  
+**Retention & Sales Momentum** — Sales showed remarkable growth (12,112% increase in early years), but retention rates remain low, signaling a need for loyalty-building strategies.
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 1. **Enhance Loyalty Programs** — Develop rewards for returning customers to improve retention.  
 2. **Promote Installment Plans** — Expand flexible financing options as most customers prefer paying in installments.  
 3. **Focus on High-Revenue States** — Prioritize logistics and marketing for SP, MG, and RJ to boost sales.  
@@ -32,34 +32,34 @@ We explore order trends, customer behavior, geographic distributions, product pr
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Languages**: MySQL, Python  
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Platform**: Jupyter Notebook (Anaconda)  
 - **Data Source**: E-commerce orders, order_items, sellers, customers, products, payments, geolocation, 
 
 ---
-## 🛡️ License
+## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## About Me
 
-### Hi there 👋 I'm Yuvaraj Singh
+### Hi there I'm Yuvaraj Singh
 
 I'm a freelance Data Scientist with over **5 years of experience** delivering data-driven solutions through Upwork. I specialize in turning raw data into actionable insights using a powerful blend of tools and techniques.
 
-💼 Freelance Profile: [Upwork - Yuvaraj Singh](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
+Freelance Profile: [Upwork - Yuvaraj Singh](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
 
-#### 🧠 What I Do
+#### What I Do
 
-- 📈 Data Analytics using **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- 💻 BI Automation using **OpenPyXL**, **pyodbc**, and **Dask**
-- 🧪 Statistical Modeling with **RStudio**, **SAS**, and **SPSS**
-- 🗃️ Data manipulation and querying with **SQL**, **MySQL**
-- 📊 Interactive dashboards and analysis in **Power BI** and **Excel**
+- Data Analytics using **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- BI Automation using **OpenPyXL**, **pyodbc**, and **Dask**
+- Statistical Modeling with **RStudio**, **SAS**, and **SPSS**
+- Data manipulation and querying with **SQL**, **MySQL**
+- Interactive dashboards and analysis in **Power BI** and **Excel**
 
-## 📬 Let’s connect:
+## Let’s connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-singh-774226350/)  
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
